@@ -1,0 +1,24 @@
+# Fill in the values for a local run.
+seed = 
+seconds = 
+no-update = 
+max-infeasible = 
+noise = 
+remove = 
+max-relax = 
+relax-growth = 
+cooling = 
+construction-segment = 
+weight-segment = 
+weight-reaction = 
+max-clusters = 
+cluster-iterations = 
+cluster-join = 
+shaw-exponent = 
+initial-worsening = 
+initial-acceptance = 
+construction-best-score = 
+construction-other-score = 
+local-best-score = 
+local-accepted-score = 
+local-rejected-score = 
